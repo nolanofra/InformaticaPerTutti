@@ -124,5 +124,32 @@ E' costituito da:
 
 - **1 TeraByte (1 TB)**: 1.000.000.000.000 Byte
 
+---
+### Hardware: Periferiche 
 
+- Input: insieme di dispositivi capaci di immettere dati nel computer
 
+- Output: ricevono i dati dal computer e li convertono in modo da poter essere leggibili
+
+---
+
+### Hardware: Periferiche di INPUT
+
+- Mouse
+- Tastiera
+- Touchpad
+- Macchina fotografica
+- Scanner
+- Microfono
+- Webcam
+
+---
+
+### Hardware: Periferiche di OUTPUT
+
+- Monitor
+- Stampante
+- Proiettore
+- Casse
+
+---
