@@ -37,7 +37,8 @@ Informatica per tutt@
 
 - Esempi di sistemi operativi sono **Windows**, **Linux**, **iOS**, **Android** ...
 
- ---
+---
+
 ### Sistema Operativo
 
 - Garantisce il funzionamento di un calcolatore
