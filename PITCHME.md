@@ -53,6 +53,8 @@ Informatica per tutt@
 
 - Windows
 
+![Windows](assets/windows-10.png)
+
 ---
 ### Sistema Operativo: Esempi
 
