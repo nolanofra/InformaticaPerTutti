@@ -12,11 +12,11 @@ Informatica per tutt@
 
 ---
 
-### Che cos'è un computer?
+### Che cos'Ã¨ un computer?
 
 - E' un sistema che elabora informazione digitale
 
-![Computer](assets/computer.png)
+![Computer](assets/computer.PNG)
 
 ---
 
