@@ -67,6 +67,8 @@ Informatica per tutt@
 
 - Linux (Ubuntu)
 
+![Ubuntu](assets/ubuntu.jpg)
+
 ---
 
 ### Hardware
