@@ -11,7 +11,7 @@ Informatica per tutt@
 
 ---
 
-### Che cos'Ë un computer?
+### Che cos'√® un computer?
 
 - E' un sistema che elabora informazione digitale
 
@@ -33,7 +33,7 @@ Informatica per tutt@
 ---
 ### Sistema Operativo
 
-- Un sistema operativo (abbreviato in SO) Ë un insieme di componenti software che consente l'utilizzo di varie apparecchiature informatice (ad esempio un computer) da parte di un utente
+- Un sistema operativo (abbreviato in SO) √® un insieme di componenti software che consente l'utilizzo di varie apparecchiature informatice (ad esempio un computer) da parte di un utente
 
 - Esempi di sistemi operativi sono **Windows**, **Linux**, **iOS**, **Android** ...
 
@@ -53,21 +53,15 @@ Informatica per tutt@
 
 - Windows
 
-![Windows](assets/windows-10.png)
-
 ---
 ### Sistema Operativo: Esempi
 
 - OSX
 
-![OSX](assets/osx.jpg)
-
 ---
 ### Sistema Operativo: Esempi
 
 - Linux (Ubuntu)
-
-![Ubuntu](assets/ubuntu.jpg)
 
 ---
 
@@ -87,12 +81,10 @@ E' costituito da:
   - CU (Control Unit): organizza e controlla i dispositivi e ordina le istruzioni da eseguire
   - ALU (Arithmetic Logic Unit): si occupa del calcolo
 
-- La velocit‡ della CPU si misura in Mhz
+- La velocit√† della CPU si misura in Mhz
 
 ---
 ### Hardware: CPU
-
-![CPU](assets/cpu.jpg)
 
 ---
 
@@ -104,15 +96,15 @@ E' costituito da:
   - Lavora direttamente con il microprocessore
     - RAM, ROM
 
-  - *Memoria Secondaria* (o di massa): dispositivi non a stretto contatto con il processore, servono per immagazzinare dati. Meno veloce, grande capacit‡ di dati
+  - *Memoria Secondaria* (o di massa): dispositivi non a stretto contatto con il processore, servono per immagazzinare dati. Meno veloce, grande capacit√† di dati
     - hard disk, cd, dvd, chiavetta usb
 
 ---
 
 ### Hardware: Memoria, Unita' di misura
 
-- **Bit**: cifra elementare che puÚ assumere solo due valori, 0 oppure 1
-  -- Per esempio, la sequenza  **01000001** in codice binario Ë usata per indicare la lettera A
+- **Bit**: cifra elementare che pu√≤ assumere solo due valori, 0 oppure 1
+  -- Per esempio, la sequenza  **01000001** in codice binario √® usata per indicare la lettera A
 
 - **Byte**: sequenza di 8 bit
 
