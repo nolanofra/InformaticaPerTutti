@@ -15,7 +15,7 @@ Informatica per tutt@
 
 - E' un sistema che elabora informazione digitale
 
-![Computer](assets/computer.png)
+![Computer](assets/computer.PNG)
 
 ---
 
