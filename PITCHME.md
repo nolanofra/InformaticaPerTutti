@@ -60,6 +60,8 @@ Informatica per tutt@
 
 - OSX
 
+![OSX](assets/osx.jpg)
+
 ---
 ### Sistema Operativo: Esempi
 
