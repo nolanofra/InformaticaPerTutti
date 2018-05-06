@@ -92,6 +92,7 @@ E' costituito da:
 ---
 ### Hardware: CPU
 
+![CPU](assets/cpu.jpg)
 ---
 
 ### Hardware: Memoria
