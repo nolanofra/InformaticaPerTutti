@@ -156,12 +156,12 @@ E' costituito da:
 
 ### Tastiera
 
+![Tastiera](assets/tastiera.png)
+
 - La tastiera italiana standard è composta di 105 tasti
 
 - La distribuzione delle lettere non rispetta l'ordine alfabetico
-  - tastiera *QWERTY* (le lettere dei primi 6 tasti) è pensata per fare in modo che ogni dito abbia più o meno lo stesso carico
-  
-  ![Tastiera](assets/tastiera.png)
+  - tastiera *QWERTY* (le lettere dei primi 6 tasti) è pensata per fare in modo che ogni dito abbia più o meno lo stesso carico  
   
 ---
 ### Tasti con funzioni speciali
@@ -170,16 +170,19 @@ E' costituito da:
 
 - *Windows*: apre il menu Start.
 - *Esc*: sta per Escape (Uscita, in inglese), e normalmente chiude l’applicazione o la finestra in cui ti trovi, o ti fa uscire dalla modalità a schermo intero di un programma.
+
+---
+### Tasti con funzioni speciali
+
 - *Menu*: è il penultimo tasto in basso a destra del blocco principale della tastiera. Equivale al tasto destro del mouse (argomento che approfondiremo tra poco), quindi apre il menu contestuale.
-- *F1*: apre il menu Aiuto.
-     
+- *F1*: apre il menu Aiuto.	     
 ---
 
 ### Tasti di scrittura
 
 ![Tasti scrittura](assets/tasti-scrittura.jpg)
 
-- Sono quelli che contengono tutte le lettere, i numeri, le lettere accentate, i simboli più usati quando si scrive (per esempio i segni di punteggiatura, l’asterisco e l’apostrofo); il tasto grande che si trova al centro in basso è la barra di spazio. Qui sopra sono tutti evidenziati in blu.   
+- Sono quelli che contengono tutte le lettere, i numeri, le lettere accentate, i simboli più usati quando si scrive; il tasto grande che si trova al centro in basso è la barra spaziatrice. 
   
 ---
 
@@ -187,21 +190,21 @@ E' costituito da:
 
 ![Tasti complementari](assets/tasti-complementari.jpg)
 
-Sono quelli evidenziati in giallo.
-
 - *Tab* (due frecce una sopra l’altra): inserisce nel testo uno spazio in base a “salti” predeterminati.  
-
 - *Bloc Maiusc*: serve a bloccare la tastiera sulla modalità lettere maiuscole; con una pressione si attiva, con un’altra pressione si disattiva.
 
+---
+### Tasti di scrittura complementari
+
 - *Shift* (o Maiusc): se digiti una qualsiasi lettera mentre tieni premuto questo tasto ottieni una lettera maiuscola, mentre se assieme ad esso digiti un tasto con due simboli disegnati otterrai quello più in alto.
+
+- *Alt Gr*: se lo schiacci assieme ad un tasto con tre simboli disegnati, otterrai quello che si trova in basso a destra.
 
 ---
 
 ### Tasti di scrittura complementari
 
-- *Alt Gr*: se lo schiacci assieme ad un tasto con tre simboli disegnati, otterrai quello che si trova in basso a destra. Ad esempio, per ottenere la chiocciola che si usa negli indirizzi email (@) devi schiacciare Alt Gr e il tasto ò (“o” accentata).
-
-- *Cancella*: è il tasto che si trova sopra quello di Invio (nella parte principale della tastiera), e ha disegnata sopra una freccia rivolta a sinistra; serve a cancellare il carattere che si trova immediatamente a sinistra del cursore.
+- *Cancella*: è il tasto che si trova sopra quello di Invio e serve a cancellare il carattere che si trova immediatamente a sinistra del cursore.
 
 - *Canc*: fa l’opposto del tasto precedente: cancella il carattere che si trova immediatamente a destra del cursore.
 
@@ -252,6 +255,7 @@ Esempi:
 ![Cursore move](assets/move.jpg)
 - In questo caso vuol dire che l'oggetto sopra il quale si trova il cursore può essere spostato
 
+---
 ### Desktop
 
 - Il Desktop, In italiano, "scrivania", è l'area dello schermo su cui appaiono le icone e le finestre rappresentanti le memorie di massa collegate al computer ed il loro contenuto.
