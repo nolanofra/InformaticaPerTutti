@@ -160,6 +160,9 @@ E' costituito da:
 
 - La tastiera italiana standard è composta di 105 tasti
 
+---
+### Tastiera
+
 - La distribuzione delle lettere non rispetta l'ordine alfabetico
   - tastiera *QWERTY* (le lettere dei primi 6 tasti) è pensata per fare in modo che ogni dito abbia più o meno lo stesso carico  
   
@@ -255,9 +258,164 @@ Esempi:
 ![Cursore move](assets/move.jpg)
 - In questo caso vuol dire che l'oggetto sopra il quale si trova il cursore può essere spostato
 
+
+---
+### Come si accende il pc?
+
+- Premi il pulsante di accensione
+
+![Welcome screen](assets/welcome-screen.PNG)
+
+---
+
+### Cosa sono gli utenti?
+
+- Quando si usa il computer con altre persone, è possibile fare in modo che ognuno abbia il proprio utente
+
 ---
 ### Desktop
 
-- Il Desktop, In italiano, "scrivania", è l'area dello schermo su cui appaiono le icone e le finestre rappresentanti le memorie di massa collegate al computer ed il loro contenuto.
+- Il Desktop, in italiano, "scrivania", è l'area dello schermo su cui appaiono le icone e le finestre rappresentanti le memorie di massa collegate al computer ed il loro contenuto.
 
 ---
+
+### Come si spegne il pc?
+
+- Non basta premere un bottone, bisogna seguire una procedura
+
+![Welcome screen](assets/shutdown.PNG)
+---
+
+### Come è organizzato il PC?
+
+- Tutto il *contenuto* del computer si trova in dei luoghi organizzati in maniera gerarchica
+
+  - dispositivi (hard disk, cd, chiavette USB)
+  - cartelle
+  - file
+  - alias, o collegamenti
+
+---
+
+### Come è organizzato il PC?
+
+![Gerarchia](assets/gerarchia.jpg)
+
+---
+
+### Dispositivi
+
+![Dispositivi](assets/dispositivi.jpg)
+
+---
+
+### Cartelle
+
+![Cartelle](assets/cartelle.PNG)
+
+- Ospitano altre cartelle o altri file
+
+---
+
+### File
+
+![File](assets/file.jpg)
+
+- Contengono le informazioni che ci interessano
+
+---
+
+### File
+
+- I file possono essere di mille tipi
+  - foto
+  - documenti di testo
+  - video
+  - canzoni
+  - ...	
+
+---
+
+### Collegamenti (o alias)
+
+- scorciatoria per aprire un file che si trova da qualche parte nel pc
+
+- sono file particolari, che non contengono nulla
+  - sono collegamenti ad altri file *veri*
+
+---
+
+### Il tasto sx nel desktop
+
+- Muovere il cursore all'interno del desktop
+
+- selezionare 
+
+- click e apertura finestre (ad es. finestra *files*)
+
+![Finestra](assets/finestra.PNG)
+
+---
+
+### Finestre e cartelle
+
+- doppio click per apertura cartelle (apertura cartella documenti)
+
+- tasti finestre: chiudi, ingrandisci, riduci a icona
+
+- sposta finestra
+
+---
+
+### Il tasto dx nel desktop
+
+![Tasto dx](assets/tastodx.PNG)
+
+---
+
+### Il tasto dx nel desktop
+
+- tasto dx per creare una nuova cartella
+
+- tasto dx su cartella per rinominarla
+
+![Prova dx](assets/prova.PNG)
+
+---
+
+### Il tasto dx nel desktop
+
+- trascina cartella per spostarla all'interno del desktop
+
+- crea link a cartella
+
+![Prova Link](assets/prova-link.PNG)
+
+---
+
+### Il tasto dx nel desktop
+
+- trascina cartella per spostarla all'interno del desktop
+
+- crea link a cartella
+
+ -- selezione multipla cartelle
+
+![Prova Link](assets/prova-link.PNG)
+
+---
+
+### Change desktop background
+
+![Change desktop background](assets/change-desktop.PNG)
+
+---
+
+### Selezione 
+
+- selezione multipla cartelle
+
+- spostamento multiplo cartelle / file
+
+---
+
