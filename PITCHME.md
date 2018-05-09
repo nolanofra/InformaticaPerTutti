@@ -399,7 +399,7 @@ Esempi:
 
 - crea link a cartella
 
- -- selezione multipla cartelle
+  - selezione multipla cartelle
 
 ![Prova Link](assets/prova-link.PNG)
 
