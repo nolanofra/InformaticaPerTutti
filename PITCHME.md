@@ -15,8 +15,8 @@ Corso di VideoScrittura
 ### Salvare un file di testo
 
 - Menu file
-  -- Salva vs Salva con nome
-  -- Finestra di dialogo
+  - Salva vs Salva con nome
+  - Finestra di dialogo
 
 
 ![Finestra dialogo](assets/finestra_dialogo.png)
@@ -27,7 +27,7 @@ Corso di VideoScrittura
 
 - Selezione tramite mouse
 - Selezione tramite ctrl-frecce
--- Copia / incolla / taglia
+  - Copia / incolla / taglia
 
 ---
 
@@ -58,8 +58,8 @@ Corso di VideoScrittura
 
 - Tasto tab
 - Visualizza righello 
--- Aggiungi tabulazioni a righello
--- Scrivere in colonne
+  - Aggiungi tabulazioni a righello
+  - Scrivere in colonne
 ![Tabulazioni](assets/tabulazioni.png)
 
 ---
