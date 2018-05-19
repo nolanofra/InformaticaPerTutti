@@ -1,0 +1,141 @@
+# Welcome 
+
+#### Informatica per tutt@
+#### Primo approccio ai fogli elettronici
+
+---
+
+### Cosa sono
+
+- Programmi per effettuare calcoli
+	- LibreOffice Calc
+	- Excel
+	- Lotus Note
+- Utili a creare grafici
+
+Note:
+- Chiamati anche fogli di calcolo
+
+---
+
+### Struttura
+
+- Foglio
+	- Tabella
+		- Cella
+
+
+![Struttura foglio elettronico](assets/DefiningCellRanges.gif)
+
+---
+
+### Selezione testo
+
+- Selezione tramite mouse
+
+
+- Selezione tramite ctrl-frecce
+  - Copia / incolla / taglia
+
+- Per spostare (tagliare e incollare) il testo selezionato, usate Ctrl+X per tagliare il testo, portate il
+cursore nella posizione in cui volete incollare e usate Ctrl+V per incollare.
+
+---
+
+### Tipi di carattere
+
+- Font
+![Font](assets/font.JPG)
+
+---
+
+### Formati carattere
+
+- Grassetto, corsivo, sottolineato 
+
+![Grassetto](assets/grassetto.JPG)
+
+---
+### Formati carattere
+
+- Cambia colore, dimensione, tipo di carattere
+
+![Formato carattere](assets/formato_carattere.png)
+
+---
+### Formato paragrafo
+
+- Allineamento a sinistra, destra, centrato, giustificato
+
+![Formattazione paragrato](assets/formattazione.JPG)
+
+
+---
+
+### Interlinea
+
+- Specifica lo spazio tra le righe di un testo di un paragrafo
+
+![Interlinea](assets/interlinea.JPG)
+
+---
+### Elenco puntato
+
+![Elenco puntato](assets/elenco-puntato.JPG)
+
+---
+
+### Formato pagina
+
+![Formato pagina](assets/format-page.JPG)
+---
+
+### Immagini
+![Inser Image](assets/insert-image.JPG)
+
+---
+
+### Formato paragrafo
+
+- Rientro paragrafo, rientro prima riga
+
+![Rientro](assets/rientro.JPG)
+
+---
+
+### Intestazioni e piè di pagina
+
+- Le intestazioni sono una parte del documento inserita sempre nella parte alta della pagina
+
+![Intesatione](assets/header.JPG)
+
+---
+### Piè di pagina
+
+- I piè di pagina sono inseriti sempre nella parte bassa della pagina
+
+![Pie di pagina](assets/pie-di-pagina.png)
+
+---
+
+### Tabelle
+- Le tabelle sono un mezzo comodo per organizzare e presentare grandi quantità di informazioni
+
+![Tabella](assets/table.JPG)
+
+---
+
+### Tabulazioni
+
+- Tasto tab
+- Visualizza righello 
+  - Aggiungi tabulazioni a righello
+  - Scrivere in colonne
+![Tabulazioni](assets/tabulazioni.png)
+
+---
+
+### Riferimenti
+
+- [Libre Office Documentation](https://wiki.documentfoundation.org/images/b/b3/WG3600-Guida_a_LibreOffice_Writer_3.6.pdf)
+
