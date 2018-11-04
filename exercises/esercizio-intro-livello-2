@@ -1,0 +1,16 @@
+#Esercizio intro-informatica
+
+1. Crea una nuova cartella sul desktop, chiamala "informatica-per-tutti"
+2. Crea un nuovo file di testo all'interno della tua cartella, chiamalo "esercizio-intro-1"
+3. Apri il file con notepad, e scrivi il seguente testo:
+
+	* Lo spazio totale del mio hard disk è pari a:
+	* Lo spazio libero del mio hard disk è pari a:
+	* La dimensione della RAM nel mio PC è pari a:
+	* La dimensione di questo file è pari a:
+	
+4. Salva il file
+5. Aggiorna il contenuto del file completando ciascuna frase, recuperando le informazioni dal vostro PC
+6. Salva e chiudi il file
+7. Sposta il file nel cestino
+8. Ripristina il file dal cestino
