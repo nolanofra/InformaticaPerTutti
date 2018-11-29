@@ -128,3 +128,8 @@ cursore nella posizione in cui volete incollare e usate Ctrl+V per incollare.
 ![Tabulazioni](assets/tabulazioni.png)
 
 ---
+
+### Riferimenti
+
+- [Libre Office Documentation](https://wiki.documentfoundation.org/images/b/b3/WG3600-Guida_a_LibreOffice_Writer_3.6.pdf)
+
