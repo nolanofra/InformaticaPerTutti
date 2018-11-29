@@ -49,10 +49,12 @@ cursore nella posizione in cui volete incollare e usate Ctrl+V per incollare.
 
 ![Grassetto](assets/grassetto.JPG)
 
+---
+### Formati carattere
+
 - Cambia colore, dimensione, tipo di carattere
 
 ![Formato carattere](assets/formato_carattere.png)
-
 
 ---
 ### Formato paragrafo
@@ -62,10 +64,15 @@ cursore nella posizione in cui volete incollare e usate Ctrl+V per incollare.
 ![Formattazione paragrato](assets/formattazione.JPG)
 
 
-- Interlinea
-
 ---
 
+### Interlinea
+
+- Specifica lo spazio tra le righe di un testo di un paragrafo
+
+![Interlinea](assets/interlinea.JPG)
+
+---
 ### Elenco puntato
 
 ![Elenco puntato](assets/elenco-puntato.JPG)
@@ -74,7 +81,7 @@ cursore nella posizione in cui volete incollare e usate Ctrl+V per incollare.
 
 ### Formato pagina
 
-![Formato pagina](assts/format-page.JPG)
+![Formato pagina](assets/format-page.JPG)
 ---
 
 ### Immagini
@@ -86,7 +93,7 @@ cursore nella posizione in cui volete incollare e usate Ctrl+V per incollare.
 
 - Rientro paragrafo, rientro prima riga
 
-![Rientro](assets/rientro.png)
+![Rientro](assets/rientro.JPG)
 
 ---
 
@@ -101,7 +108,7 @@ cursore nella posizione in cui volete incollare e usate Ctrl+V per incollare.
 
 - I piè di pagina sono inseriti sempre nella parte bassa della pagina
 
-![Pie di pagina](assets/page-number.JPG)
+![Pie di pagina](assets/pie-di-pagina.png)
 
 ---
 
