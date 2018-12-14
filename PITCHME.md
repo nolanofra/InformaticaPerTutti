@@ -8,9 +8,9 @@
 ### Cosa sono
 
 - Programmi per effettuare calcoli
-	- LibreOffice Calc
-	- Excel
-	- Lotus Note
+	- LibreOffice Calc - libero e gratuito
+	- Google Sheets - online e gratuito
+	- Office Excel - a pagamento
 - Utili a creare grafici
 
 Note:
@@ -20,122 +20,109 @@ Note:
 
 ### Struttura
 
-- Foglio
-	- Tabella
-		- Cella
-
+- Foglio/Tabella
+	- Cella
+		- Valore/Formula
 
 ![Struttura foglio elettronico](assets/DefiningCellRanges.gif)
 
----
-
-### Selezione testo
-
-- Selezione tramite mouse
-
-
-- Selezione tramite ctrl-frecce
-  - Copia / incolla / taglia
-
-- Per spostare (tagliare e incollare) il testo selezionato, usate Ctrl+X per tagliare il testo, portate il
-cursore nella posizione in cui volete incollare e usate Ctrl+V per incollare.
+Note:
+Una cella può contenere:
+- numero
+- testo
+- formula o funzione utilizzando i valori di altre celle
 
 ---
 
-### Tipi di carattere
+### LibreOffice Calc
 
-- Font
-![Font](assets/font.JPG)
-
----
-
-### Formati carattere
-
-- Grassetto, corsivo, sottolineato 
-
-![Grassetto](assets/grassetto.JPG)
-
----
-### Formati carattere
-
-- Cambia colore, dimensione, tipo di carattere
-
-![Formato carattere](assets/formato_carattere.png)
-
----
-### Formato paragrafo
-
-- Allineamento a sinistra, destra, centrato, giustificato
-
-![Formattazione paragrato](assets/formattazione.JPG)
-
+![Parti della finestra di LibreOffice Calc](assets/ComponentiFinestraCalc.png)
 
 ---
 
-### Interlinea
+### Inserimento valori
 
-- Specifica lo spazio tra le righe di un testo di un paragrafo
-
-![Interlinea](assets/interlinea.JPG)
+- Selezione casella **A1**
+- Scrittura numero `1`
+- Copia/Incolla  
+	*`Ctrl+C` e `Ctrl+V` funzionano anche qui!*
+	1. subito sotto
+	1. su selezione di più celle
+- Selezione intera colonna
+- Copiate colonna **A** su colonna **B**
 
 ---
-### Elenco puntato
+### Salvataggio
 
-![Elenco puntato](assets/elenco-puntato.JPG)
-
----
-
-### Formato pagina
-
-![Formato pagina](assets/format-page.JPG)
----
-
-### Immagini
-![Inser Image](assets/insert-image.JPG)
+#### Salvate spesso, salvate subito!
 
 ---
 
-### Formato paragrafo
+### Fogli
 
-- Rientro paragrafo, rientro prima riga
+- Create nuovo foglio
+- Spostatevi tra i due fogli
 
-![Rientro](assets/rientro.JPG)
-
----
-
-### Intestazioni e piè di pagina
-
-- Le intestazioni sono una parte del documento inserita sempre nella parte alta della pagina
-
-![Intesatione](assets/header.JPG)
-
----
-### Piè di pagina
-
-- I piè di pagina sono inseriti sempre nella parte bassa della pagina
-
-![Pie di pagina](assets/pie-di-pagina.png)
+![Tasti fogli](assets/Fogli.png)
 
 ---
 
-### Tabelle
-- Le tabelle sono un mezzo comodo per organizzare e presentare grandi quantità di informazioni
+@snap[west]
+### Riempimento Testo
 
-![Tabella](assets/table.JPG)
+@ul[](false)
+- Scrivete `casa` in **A1**
+- Selezionate **A1**
+- Trascinate in basso<br> con strumento *Riempimento*
+@ulend
+@snapend
+
+@snap[east]
+![Strumento Riempimento](assets/StrumentoRiempimento.png)
+@snapend
+
+Note:
+Sul secondo foglio
+	
+---
+
+### Altri Riempimenti
+	
+- Numeri: Scrivete `1` e `2` in **B1** e **B2**
+	- Selezionate i numeri e usate **Riempimento**
+- Date: Scrivete una data in **C1**
+	- Selezionate e usate **Riempimento**
+
+
+	
+---
+
+@snap[west]
+### Inserimento funzioni
+
+@ul[](false)
+- Selezionate cella vuota
+- Premete **Σ**
+- Trascinate a destra<br> usando **Riempimento**
+@ulend
+@snapend
+
+@snap[east]
+![Pulsante Somma e riempimento](assets/PulsanteSomma.png)
+@snapend
+
+Note:
+Sul primo foglio
 
 ---
 
-### Tabulazioni
+Grafico
 
-- Tasto tab
-- Visualizza righello 
-  - Aggiungi tabulazioni a righello
-  - Scrivere in colonne
-![Tabulazioni](assets/tabulazioni.png)
+...
 
 ---
 
 ### Riferimenti
 
-- [Libre Office Documentation](https://wiki.documentfoundation.org/images/b/b3/WG3600-Guida_a_LibreOffice_Writer_3.6.pdf)
+- [Guida LibreOffice](https://wiki.documentfoundation.org/images/3/3c/GS35-Guida_introduttiva_a_LibreOffice_3.5.pdf)
 
